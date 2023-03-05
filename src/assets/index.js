@@ -36,6 +36,8 @@ import AgW from "./AgW.png";
 import AgS from "./AgS.png";
 import Pharm from "./Pharm.png";
 import Mysql from "./tech/Mysql.png";
+import link from "./link.png";
+
 
 
 
@@ -77,5 +79,6 @@ export {
   AgS,
   Pharm,
   Mysql,
+  link,
 };
 
